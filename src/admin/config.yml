@@ -40,6 +40,8 @@ collections:
     name: "links"
     folder: "src/links"
     create: true
+    nested:
+      depth: 2
     editor:
       preview: false
     fields:
